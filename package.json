@@ -1,0 +1,24 @@
+{
+  "name": "promise-hell",
+  "version": "1.0.0",
+  "description": "Project to show how to avoid promisse hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSampaio/escaping-promise-hell.git"
+  },
+  "keywords": [
+    "best-practices",
+    "promise",
+    "promise-hell"
+  ],
+  "author": "Rodrigo Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSampaio/escaping-promise-hell/issues"
+  },
+  "homepage": "https://github.com/RodrigoSampaio/escaping-promise-hell#readme"
+}
