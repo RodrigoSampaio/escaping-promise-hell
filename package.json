@@ -4,7 +4,8 @@
   "description": "Project to show how to avoid promisse hell",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony-async-await index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/RodrigoSampaio/escaping-promise-hell/issues"
   },
-  "homepage": "https://github.com/RodrigoSampaio/escaping-promise-hell#readme"
+  "homepage": "https://github.com/RodrigoSampaio/escaping-promise-hell#readme",
+  "dependencies": {
+    "request": "2.81.0"
+  },
+  "devDependencies": {
+    "standard": "9.0.2"
+  }
 }
